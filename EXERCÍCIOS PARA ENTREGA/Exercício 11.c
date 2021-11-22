@@ -1,0 +1,1 @@
+//essa condição eu fiz nos exercícios 9 e 10
